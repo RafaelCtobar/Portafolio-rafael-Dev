@@ -4,8 +4,7 @@ import Typewriter from "../typewriter/typewriter";
 import Button from "../button/button"
 import SectionBio from "../sectionBio/sectionBio";
 
-
-export default function Main() {
+export default function Main(){
     const { languageUse } = useLanguage();
     const { title, button } = languageUse;
     const arrayTitle = title.split(" ");

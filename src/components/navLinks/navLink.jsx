@@ -11,8 +11,6 @@ export default function NavLink({ children, href, ico, img, className, menuState
         Proyectos: "/projects",
         Contacto: "/contact"
     } 
-
-
     return (
         <NavLinkStyled className={className} onClick = {menuState ? menuState : null}>
             <LinkStyled href={hrefs[href] || "/"} 
