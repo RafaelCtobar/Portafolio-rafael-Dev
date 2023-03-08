@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+body{
+  background-color: #1A132E;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+body::-webkit-scrollbar{
+  width: 12px;
+  background-color: rgb(32, 24, 61);
+}
+body::-webkit-scrollbar-thumb{
+  background-color:rgb(46, 36, 83);
+  border-radius: 8px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}

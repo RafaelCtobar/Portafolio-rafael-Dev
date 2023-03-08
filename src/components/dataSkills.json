@@ -1,0 +1,121 @@
+{
+   "frontEnd": {
+        "basic": [
+            {
+                "img": "https://i.postimg.cc/5tZxnpS3/html.png",
+                "title": "HTML",
+                "conocimiento": "-Etiquetas semánticas., -Etiquetas META., -Prácticas SEO., -Formularios., -Canvas. ",
+                "knowledge": "-Semantic tags., -META tags., -SEO practices., -Forms., -Canvas."
+            },
+            {
+                "img": "https://i.postimg.cc/pXpzXXP8/css.png",
+                "title": "CSS",
+                "conocimiento": "-Especifidad., -Selectores., -Pseudo clases y pseudo elementos., -Flex y grid., -Diseños responsivos.",
+                "knowledge": "-Specificity., -Selectors., -Pseudo classes and pseudo elements., -Flex and grid., -Responsive design."
+            },
+            {
+                "img": "https://i.postimg.cc/RWDmb1sQ/js.png",
+                "title": "JavaScript",
+                "conocimiento": "-Manipulación del DOM., -POO., -Asincronía., -Fetch API., -Métodos de listas., -Promesas., -JSON.",
+                "knowledge": "-Handle DOM., -POO., -Async / Await., -Fetch API., -Array methods., -Promises., -JSON."
+            },
+            {
+                "img": "https://i.ibb.co/9vyXs3T/typescript.png",
+                "title": "TypeScript",
+                "conocimiento": "-Types., -POO., -Interface., -Enums., -Tuplas., -Hover info., -Tipos genéricos., -TS en React.",
+                "knowledge": "-Types., -POO., -Interface., -Enums., -Tuplas., -Hover info., -Generic types., -TS in React."
+            }
+        ],
+        "cssTools": [
+            {
+                "img": "https://i.postimg.cc/23R07qwq/Bootstrap.png",
+                "title": "BOOTSTRAP",
+                "conocimiento": "-Breakpoints y contenedores., -Grid Layout., -Componentes., -Customización con SASS.",
+                "knowledge": "-Breakpoints and containers., -Grid Layout., -Components., -SASS customization."
+            },
+            {
+                "img": "https://i.postimg.cc/QxQ2nsTL/sass.png",
+                "title": "SASS",
+                "conocimiento": "-Ciclos., -Mixins., -Importar., -Use., -Forward., -Variables., -Funciones y condicionales., -Procesar a CSS.",
+                "knowledge": "-Loops., -Mixins., -Imports., -Use., -Forward., -Variables., -Functions and conditionals., -Process to CSS."
+            },
+            {
+                "img": "https://i.postimg.cc/50QG5MVR/styled-Components.png",
+                "title": "Styled Components",
+                "conocimiento": "-Estilar componentes de React., -Utilizar props., -Theme., -Gestión de carpetas.",
+                "knowledge": "-Style React components., -Use props., -Theme., -Folder management."
+            }
+        ],
+        "libraries": [
+            {
+                "img": "https://i.postimg.cc/MTxxdD6w/react.png",
+                "title": "REACT",
+                "conocimiento": "-Control y creación de hooks., -Manejo del estado., -Creación de un estado global con el hook Context., -React Memo.",
+                "knowledge": "-Control and creation of hooks., -State management., -Creation of a global state with Context hook., -React Memo."
+            },
+            {
+                "img": "https://i.postimg.cc/x104x4Ht/framer-motion.png",
+                "title": "Framer Motion",
+                "conocimiento": "-Animar componentes., -Control de variantes., -Uso de keyframes., -Animaciones infinitas.", 
+                "knowledge": "-Animate components., -Variant control., -Keyframes usage., -Infinite animations."
+            },
+            {
+                "img": "https://i.postimg.cc/BbkVwSTF/formi.png",
+                "title": "FORMIK",
+                "conocimiento": "-Manejo de errores., -Validar campos., -Manejo de touch., -Control de valores.",
+                "knowledge": "-Error handling., -Validate fields., -Handle touch., -Control values."
+            },
+            {
+                "img": "https://i.postimg.cc/pX8vb4mv/hammer.png",
+                "title": "HAMMER JS",
+                "conocimiento": "-Crear eventos propios., -Eventos de gestos., -Manejo del número de punteros.",
+                "knowledge": "-Create own events., -Gesture events., -Handling of pointer number."
+            }
+        ]
+    },
+    "otherSkills": [
+        
+        {
+            "img": "https://i.postimg.cc/wMTWVT49/npm.png",
+            "title": "NPM",
+            "conocimiento": "-Instalación y desinstalación de paquetes., -Control de versiones., -Ejecutar comandos personalizados.", 
+            "knowledge": "-Install and uninstall packages., -Version control., -Run custom commands."
+        },
+        {
+            "img": "https://i.postimg.cc/rFZHfxL3/git.png",
+            "title": "GIT",
+            "conocimiento": "-Uso de GitHUB., -Crear repositorios., -Commit de versiones., -Navegar entre versiones con checkout.",
+            "knowledge": "-Use of GitHUB., -Create repositories., -Commit of versions., -Navigate between versions with checkout."
+        },
+        {
+            "img": "https://i.postimg.cc/yN4vGTpQ/vite.png",
+            "title": "VITE",
+            "conocimiento": "-Crear plantillas., -Ejecutar un bundle., -Levantar un servidor de desarollo., -Desplegar aplicaciones.",
+            "knowledge": "-Create templates., -Run a bundle., -Set up a development server., -Deploy applications."
+        }
+    ],
+    "testing": [
+        {
+            "img": "https://i.ibb.co/jGtzfj4/vitest.png",
+            "title": "Vitest",
+            "conocimiento": "-Expect., -Describe., -Test unitarios., -Matches importantes., -Test en tiempo real., -Coverage 95%.", 
+            "knowledge": "-Expect., -Describe., -Unitary tests. -Important matches., -Test in real time., -Coverage 95%."
+        },
+        {
+            "img": "https://i.ibb.co/dbG1ttV/testing-library.png",
+            "title": "Testing-library",
+            "conocimiento": "-Render., -Screen., -Cleanup., -Componentes hijos., -Queries importantes., -Fire Events.",
+            "knowledge": "-Render., -Screen., -Cleanup., -Children components., -Important queries., -Fire Events."
+        },
+        {
+            "img": "https://i.ibb.co/sgHnpxg/jest.png",
+            "title": "Jest",
+            "conocimiento": "-Expect., -Describe., -Test unitarios., -Matches importantes.", 
+            "knowledge": "-Expect., -Describe., -Unitary tests. -Important matches."
+        }
+    ]
+   
+}
+
+
+

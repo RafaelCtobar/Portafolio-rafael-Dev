@@ -1,0 +1,52 @@
+{
+    "projects": [
+        {
+            "img": "https://i.postimg.cc/W3G0j8yV/free-Games.png",
+            "titulo": "Searcher of Free Games",
+            "title": "Buscador de juegos gratis",
+            "contenidoAntes": "Buscador que brinda resultados de juegos gratuitos. Haciendo uso del API: free to game.",
+            "afterContent": "Search engine that provides free game results. Using the API: free to game.",
+            "href": "https://find-free-games.netlify.app"
+        },
+        {
+            "img": "https://i.ibb.co/DRJwjD3/asesorarte.png",
+            "title": "Gestor de casos judiciales",
+            "titulo": "Judicial case manager",
+            "contenidoAntes": "Sistema que utiliza el servicio de Supabase para crear una base de datos que permite ingresar y administrar todos los casos de tu firma judicial. Hecho para la firma Asesorarte.",
+            "afterContent": "System that uses the Supabase service to create a database that allows you to enter and manage all the cases of your legal firm. Made for the firm Asesorarte",
+            "href": "https://asesorarte.netlify.app"
+        },
+        {
+            "img": "https://i.postimg.cc/RhmyVPVL/meca.png",
+            "title": "Test de Mecanografía",
+            "titulo": "Typing test",
+            "contenidoAntes": "Aplicación que permite evaluar tu velocidad de tipeo por minuto (WPM) con una interfaz simple. ",
+            "afterContent": "Application that allows you to evaluate your typing speed per minute (WPM) with a simple interface.",
+            "href": "https://test-mecanografia-own-rafd.netlify.app"
+        },
+        {
+            "img": "https://res.cloudinary.com/dundmk7vd/image/upload/q_auto/e_pixelate_faces:9/Blockify_capture_mnfpbh?_a=ATCqVAA0",
+            "title": "Blockify",
+            "titulo": "Blockify",
+            "contenidoAntes": "Proyecto creado para participar en la Hackaton de Midudev. Herramienta para pixelar imágenes de forma automática",
+            "afterContent": "Project created to participate in the Midudev Hackathon. Tool to pixelate images automatically",
+            "href": "https://blockifycloudinary.netlify.app/"
+        },
+        {
+            "img": "https://i.postimg.cc/7Ppd6ZbZ/futss.png",
+            "title": "FUTSS oficial",
+            "titulo": "Official FUTSS",
+            "contenidoAntes": "Sitio oficial de campaña para el partido de magisterio FUTSS",
+            "afterContent": "Official campaign site for the FUTSS teaching candidacy",
+            "href": "https://futss-oficial.netlify.app"
+        },
+        {
+            "img": "https://i.postimg.cc/8c9SkR9p/gifs.png",
+            "title": "Giffy",
+            "titulo": "Giffy",
+            "contenidoAntes": "Utilizando el conocido API de Giffy para desarrolladores se diseñó este sitio que permite tanto buscar como compartir GIFS de cualquier cosa que se te ocurra",
+            "afterContent": "Using the well-known Giffy API for developers, this site was designed that allows you to both search and share GIFS of anything you can think of",
+            "href": "https://giffy-react-clon.netlify.app"
+        }
+    ]
+}
